@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07a9e38c-94e1-436a-8e33-44153066ccbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/01-SF Salaries Exercise-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Numpy Exercises-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Pandas Exercise-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.sh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Numpy Exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pandas Exercise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salaries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/Python Crash Course Exercises-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/Python Crash Course Exercises-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Linear Regression.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/01-Linear Regression with Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02-Linear Regression Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/2solved-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/olympics-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Linear Regression with Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Linear Regression Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2solved.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce Customers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IKEA_SA_Furniture_Web_Scrapings_sss.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/USA_Housing.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olympics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Crash Course Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Crash Course Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machine-learning.md" beforeDir="false" afterPath="$PROJECT_DIR$/../machine-learning.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EwiQKXEG5b8q3otFboZFzigrfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sudarshan/internship/Linear Regression&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sudarshan\internship\Linear Regression" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a9e38c-94e1-436a-8e33-44153066ccbe" name="Changes" comment="" />
+      <created>1663513030066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663513030066</updated>
+    </task>
+    <servers />
+  </component>
+</project>
